@@ -1,0 +1,74 @@
+﻿
+Coffee Cookies 
+Buttery cookies infused with aromatic coffee notes and chocolate chips, delivering a rich roasted flavor with a satisfying sweetness.
+Best paired with: Espresso — its bold, intense flavor enhances the coffee aroma while balancing the buttery sweetness.
+
+Matcha Cookies
+Fragrant green tea cookies with a delicate earthy taste, subtle bitterness, and a sweet finish, complemented by chocolate chips.
+Best paired with: Cappuccino — creamy milk softens the matcha's earthy bitterness and creates a smooth, comforting combination.
+
+Macadamia Cookies
+Golden, buttery cookies filled with crunchy macadamia nuts, offering a delicate nutty aroma and a rich, creamy taste.
+Best paired with: Americano — its clean, slightly bitter finish balances the buttery richness and highlights the nutty flavor.
+
+Chocolate Cookies
+Rich cocoa cookies loaded with chocolate chunks, combining a soft, crumbly texture with deep chocolate flavor.
+Best paired with: Espresso — the concentrated coffee notes complement the chocolate's richness and balance its sweetness.
+
+Strawberry Cookies
+Sweet, fruity cookies with a lovely strawberry aroma and a gentle tangy note, creating a bright and playful treat.
+Best paired with: Cold Brew — its smooth, mellow character complements the fruity notes without overpowering them.
+
+Lemon Cookies
+Lightly sweet cookies infused with fresh lemon aroma and a refreshing citrus tang, leaving a clean, zesty finish.
+Best paired with: Iced Americano — its crisp coffee profile balances the sweetness and complements the bright citrus notes.
+
+Coffee Swiss Roll
+Fluffy coffee-infused sponge rolled with smooth cream, blending roasted coffee aromas with a gentle sweetness and creamy finish.
+Best paired with: Espresso — intensifies the roasted notes and creates a satisfying coffee-forward experience.
+
+Matcha Swiss Roll
+Soft green tea sponge wrapped around silky cream, offering an earthy matcha aroma with subtle bitterness and delicate sweetness.
+Best paired with: Latte — the milk's smoothness complements the matcha and creates a mellow, balanced pairing.
+
+Macadamia Swiss Roll
+Tender sponge cake with a creamy filling and the delicate, buttery flavor of macadamia nuts for a smooth and nutty treat.
+Best paired with: Americano — its refreshing bitterness cuts through the creaminess and brings out the nutty aroma.
+
+Chocolate Swiss Roll
+Rich chocolate sponge wrapped around a smooth cream filling, delivering a soft texture and a deep cocoa flavor in every slice.
+Best paired with: Espresso — a bold, concentrated shot balances the sweetness and enhances the chocolate's depth.
+
+Strawberry Swiss Roll
+A soft strawberry sponge with a creamy filling and sweet, fruity notes balanced by a refreshing hint of tartness.
+Best paired with: Cold Brew or Latte — Cold Brew offers a smooth contrast, while Latte creates a softer, creamier combination.
+
+Lemon Swiss Roll
+Delicate sponge cake rolled with silky cream and bright citrus notes, creating a light dessert with a fresh, zesty finish.
+Best paired with: Iced Americano — the clean, roasted flavor complements the citrus aroma and keeps the pairing refreshing.
+
+Coffee Macaron
+Delicate macaron shells with smooth coffee-flavored filling, combining a sweet crunch with aromatic roasted notes.
+Best paired with: Espresso — reinforces the coffee flavor and balances the sweetness of the macaron.
+
+Matcha Macaron
+Elegant green shells filled with creamy matcha filling, offering a delicate sweetness and the distinctive earthy character of green tea.
+Best paired with: Latte — smooth milk softens the earthy notes and creates a harmonious flavor combination.
+
+Macadamia Macaron
+Crisp, delicate shells paired with a creamy, nutty filling, delivering a buttery macadamia aroma and a smooth, indulgent finish.
+Best paired with: Americano — its clean bitterness balances the rich filling and highlights the nutty notes.
+
+Chocolate Macaron
+Chocolate shells filled with smooth, rich chocolate cream, creating an elegant bite with deep cocoa notes and a sweet finish.
+Best paired with: Espresso — the bold roast complements the chocolate and balances the sugary shell.
+
+Strawberry Macaron
+Pretty pink shells with a smooth strawberry filling, bringing together fruity sweetness, a gentle tang, and a delicate chewy texture.
+Best paired with: Cold Brew — its mellow coffee profile lets the strawberry aroma shine while balancing the sweetness.
+
+Lemon Macaron
+Bright citrus-flavored filling inside delicate shells, delivering a refreshing lemon aroma and a sweet-tart finish.
+Best paired with: Iced Americano — the crisp coffee notes complement the citrus flavor and create a refreshing contrast.
+
+

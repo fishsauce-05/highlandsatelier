@@ -1,0 +1,4 @@
+background: #be9e72
+icon: https://theme.hstatic.net/200000247827/1000692826/14/favicon.png?v=2112
+background menu: #d29847
+màu chỉnh 1: #e18757

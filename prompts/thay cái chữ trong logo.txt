@@ -1,0 +1,5 @@
+Một thiết kế logo chỉ gồm chữ (text-based logo) trên nền [điền màu nền, ví dụ: trắng tinh/đen nhám]. Dòng chữ trung tâm ghi chính xác: '[ĐIỀN TỪ MỚI BẠN MUỐN, ví dụ: "GOOGLE"]'.
+
+[Phong cách & Phông chữ]: Phông chữ mang phong cách giống như trong ảnh gốc, màu chữ là màu như trong ảnh gốc.
+
+[Yêu cầu nghiêm ngặt]: Bố cục, khoảng cách chữ (kerning), độ dày nét chữ, và phong cách kiểu chữ (typography) phải giống hệt với bức ảnh logo tham chiếu. Không thêm bất kỳ biểu tượng, hình vẽ, hay chi tiết đồ họa nào khác ngoài chữ. Thiết kế sạch sẽ, vector sắc nét, chất lượng cao

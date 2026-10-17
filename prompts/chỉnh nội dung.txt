@@ -1,0 +1,59 @@
+Đọc nội dung trong file này, sau đó hãy chỉnh sửa lại nội dung trong cái mục Celebration Cakes ấy. 
+Chỉnh kiểu, chỉ thay đổi nội dung và bức ảnh trong các file đó thôi nhé, 
+nhớ chọn ảnh và nội dung phù hợp với nhau. 
+Chú ý các div phải đúng và giống nhau nhé. 
+Chỉnh sửa kĩ trong cái này. Ảnh thì nó sẽ có mấy cái có tên + món ăn. 
+Check kĩ dựa trên đúng tên trong cái images/celebrations_cake nhé. 
+Mẫu chính cho các thẻ để bạn điền nội dung là:
+                    <div class="large--one-half medium--one-half quick-view small--one-whole grid__item" data-handle=/products/tropical-coconut-9>
+
+                      <div class="item">
+                        <div class="meta">
+                          <div class="title">
+                            <p>
+                              Tropical Coconut
+                            </p>
+                          </div>
+                          <div class="description">
+                            <div class="desktop">
+                              <p>
+                                BÁNH ENTREMET DỨA &amp; DỪA
+                              </p>
+                              <p>
+                                Dòng bánh kem lạnh (Mousse), vị Dứa Dừa.
+                              </p>
+                              <p>
+                                Kích thước: Bánh size nhỏ dành cho 1-2&nbsp;người dùng.
+                              </p>
+                              <p>
+                                Vị thơm bùi của lớp kem Dừa, bên trong chua nhẹ bởi Dứa nấu với Vani,...
+                            </div>
+                            <p class="mobile">
+                            <p>
+                              BÁNH ENTREMET DỨA &amp; DỪA
+                            </p>
+                            <p>
+                              Dòng bánh kem lạnh (Mousse), vị...
+                            </p>
+                          </div>
+                          <div class="price">
+                            <p>
+                              120,000₫
+                            </p>
+                          </div>
+
+                        </div>
+                        <div class="img">
+                          <div class="figure__image">
+                            <div class="product-image-wrapper">
+                              <img src="https://cdn.hstatic.net/products/200000247827/bl_trop_01_ce12eb52dac24cf6b6178d8b9a8c83a6.jpg" alt="Tropical Coconut"/>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                    </div>
+
+Nhớ đây chỉ là mẫu, thay đổi chỗ nội dung với cả cái trong src đi nhé
+Sửa đổi nội dung thì viết vào file collections/fixing.html để tôi kiểm tra chứ không được viết trực tiếp vào trong file celebration-cakes.html
+Có gì hãy giúp tôi xóa chỗ số thứ tự và icon (nếu có) ở chỗ tên bánh nhé

@@ -1,0 +1,3 @@
+- Trong all html, thêm ảnh cho match tiramisu cake
+- click-more trong index.html, nó bao gồm: căn giữa + tạo 1 border khung chữ nhật + chữ trong đó màu trắng
+- Dòng 321 là bắt đầu cho cái thanh menu nhá
