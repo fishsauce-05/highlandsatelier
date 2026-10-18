@@ -1,5 +1,4 @@
-[Giữ nguyên phần trung tâm]: Giữ nguyên hoàn toàn nội dung, và chủ thể chính từ bức ảnh gốc. Không thay đổi hình dáng, hay chi tiết của chủ thể cũ.
-
+[Giữ nguyên phần trung tâm]: Giữ nguyên hoàn toàn Content, và chủ thể chính từ bức ảnh gốc. Không thay đổi hình dáng, hay chi tiết của chủ thể cũ.
 [Mở rộng và sáng tạo thêm hai bên trái và phải]:
 - Màu nền: Sáng hơn 1 chút
 - Thay vì kéo dãn hay làm mờ, hãy "vẽ thêm" (outpainting) bối cảnh mới một cách tự nhiên và logic để lấp đầy tỉ lệ 4158 x 754 cực rộng. 
@@ -7,9 +6,7 @@
 - Phía bên phải: Tiếp tục mở rộng bối cảnh
 - Đảm bảo ánh sáng, màu sắc (color grading), và độ hạt của phần mở rộng khớp hoàn hảo 100% với ảnh gốc ở giữa, tạo cảm giác như đây là một cú bấm máy panorama góc cực rộng (ultrawide) ngay từ đầu.
 - Phía trên và dưới có thể crop đi, miễn sao kích cỡ đúng mà ảnh vẫn phù hợp
-
 [Kỹ thuật & Bố cục]:
-
 - Kích cỡ ảnh: 4158 x 754
 - Tiêu cự camera góc rộng tự nhiên, không bị méo góc (distortion) ở hai rìa ảnh.
 - Mọi chi tiết mới thêm vào hai bên phải có độ nét, ánh sáng tự nhiên (đổ bóng, phản chiếu) đồng nhất với phần trung tâm. Không có viền mờ, không có hiệu ứng ghép ảnh lỗi.
