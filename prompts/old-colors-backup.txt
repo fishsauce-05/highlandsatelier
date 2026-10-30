@@ -1,0 +1,47 @@
+============================================================
+  BẢNG MÀU CŨ — Highlands Atelier (Backup)
+  Ngày lưu: 2026-10-28
+============================================================
+
+1. #e18757 — Cam đất (Terracotta Orange)
+   Dùng cho: background body, thanh menu (.menu-color), header.
+   Xuất hiện: index.html, fixing.html, tất cả collections, pages.
+
+2. #ffcc82 — Vàng nhạt (Soft Amber)
+   Dùng cho: .full-color background phụ, dải danh mục.
+   Xuất hiện: tất cả collections, pages (trừ index.html, fixing.html).
+
+3. #bc9669 — Vàng nâu (Warm Gold)
+   Dùng cho: meta theme-color.
+   Xuất hiện: tất cả file HTML.
+
+4. #fffaf0 — Trắng kem (Floral White)
+   Dùng cho: màu chữ logo, menu-plus button, text trên nền đậm.
+   Xuất hiện: tất cả file HTML.
+
+5. #f5f1ee — Trắng xám nhẹ (Light Warm Gray)
+   Dùng cho: .buttonn:hover color.
+   Xuất hiện: index.html.
+
+6. #fefefe — Trắng gần thuần (Near White)
+   Dùng cho: modal background-color.
+   Xuất hiện: tất cả file HTML.
+
+7. #888 — Xám trung (Medium Gray)
+   Dùng cho: modal border.
+   Xuất hiện: tất cả file HTML.
+
+8. #aaa — Xám nhạt (Light Gray)
+   Dùng cho: modal close button color.
+   Xuất hiện: tất cả file HTML.
+
+============================================================
+  GHI CHÚ MAPPING SANG BẢNG MÀU MỚI
+============================================================
+
+#e18757 (body/menu/header)  →  #760D18 (Deep Burgundy)
+#ffcc82 (.full-color phụ)   →  #F3E5CC (Champagne Beige)
+#bc9669 (theme-color meta)  →  #D9B47A (Soft Antique Gold)
+#fffaf0 (logo/text sáng)    →  #FFF8EC (Warm Ivory)
+#f5f1ee (button hover)      →  #FFF8EC (Warm Ivory)
+#fefefe, #888, #aaa (modal) →  Giữ nguyên (UI elements)

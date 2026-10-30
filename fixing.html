@@ -28,10 +28,9 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="Highlandsatelier">
     <meta property="og:description" content="">
-    <meta property="og:image" content="http://theme.hstatic.net/200000247827/1000692826/14/share_fb_home.png?v=2112"/>
-    <meta property="og:image:secure_url" content="https://theme.hstatic.net/200000247827/1000692826/14/share_fb_home.png?v=2112"/>
-
-    <meta property="og:url" content="https://artemispastry.vn/">
+    <meta property="og:description" content="Mô tả ngắn về trang của bạn" />
+    <meta property="og:image" content="https://fishsauce-05.github.io/highlandsatelier/images/preview.jpg" />
+    <meta property="og:url" content="https://fishsauce-05.github.io/highlandsatelier" />
     <meta property="og:site_name" content="Highlandsatelier">
 
     <meta name="twitter:site" content="@https://">
@@ -43,7 +42,7 @@
 
     <link rel="canonical" href="index.html">
     <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
-    <meta name="theme-color" content="#bc9669">
+    <meta name="theme-color" content="#D9B47A">
     <!-- CSS ================================================== -->
     <link href='https://theme.hstatic.net/200000247827/1000692826/14/timber.scss.css?v=2112' rel='stylesheet' type='text/css' media='all'/>
     <link href='https://theme.hstatic.net/200000247827/1000692826/14/suplo-style.scss.css?v=2112' rel='stylesheet' type='text/css' media='all'/>
@@ -129,13 +128,28 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
     <style>
+
             body {
-              background: #e18757;
+              background: #4A3029;
             }
+            :root {
+              --menu-color: #760D18;
+            }
+
             .menu-color,
-            .menu-color div {
-              background: #e18757 !important;
+            .menu-color div,
+            .menu-categories-new,
+            .menu-categories-new ul {
+              background: var(--menu-color) !important;
             }
+
+            .menu-categories-new a {
+              color: #FFF8EC !important;
+            }
+
+		.buttonn:hover{
+			color: #4A3029 !important;
+		}
 
       .logo,
       .logo:link,
@@ -153,7 +167,7 @@
           letter-spacing: 5px;
           line-height: 1;
 
-          color: #fffaf0;
+          color: #4A3029;
           text-decoration: none;
           white-space: nowrap;
 
@@ -165,13 +179,13 @@
           opacity: 1;
           cursor: pointer;
       }
-            .footerimg {
-              background: url(images/fo.jpg) !important;
-            }
+    .footerimg {
+      background: url(images/fo.jpg) !important;
+    }
     
-            @media (max-width: 480px) {
-              .logo { font-size: 14px; letter-spacing: 3px; }
-            }
+    @media (max-width: 480px) {
+      .logo { font-size: 14px; letter-spacing: 3px; }
+    }
 
 
 .mobile-nav__has-sublist {
@@ -187,7 +201,7 @@
   background: none;
   border: 0;
   outline: none;
-  color: #fffaf0;
+  color: #4A3029;
   font-size: 26px;
   line-height: 1;
   width: 44px;
@@ -203,6 +217,147 @@
   padding-left: 15px;
 }
 </style>
+
+    <style>
+      /* ===== LỖI 2: XÓA DẢI TRẮNG ===== */
+      html,
+      body {
+        background: #760D18 !important;
+      }
+
+      #PageContainer,
+      .main-content,
+      .home-collection,
+      .hc-products-wrapper,
+      #owl-home-collection-slider1,
+      .home-collection .wrapper,
+      .home-collection .inner {
+        background: transparent !important;
+        margin-bottom: 0 !important;
+        padding-bottom: 0 !important;
+      }
+
+      /* nếu trắng là của chính footer hoặc khoảng cách phía trên nó */
+      #footer {
+        background: #760D18 !important;
+        margin-top: 0 !important;
+        padding-top: 0 !important;
+        border-top: 0 !important;
+      }
+
+      /* ===== LỖI 1: ẢNH NỀN + LỚP PHỦ CHO FOOTER ===== */
+      /* #footer .footerimg {
+        position: relative !important;
+        background: url("images/fo.jpg") center / cover no-repeat !important;
+        padding-top: 40px !important;
+        padding-bottom: 40px !important;
+      }
+
+      #footer .footerimg::before {
+        content: "" !important;
+        position: absolute !important;
+        top: 0 !important;
+        right: 0 !important;
+        bottom: 0 !important;
+        left: 0 !important;
+        background: rgba(118, 13, 24, 0.55) !important;
+        z-index: 0 !important;
+        pointer-events: none !important;
+      }
+
+      #footer .footerimg .wrapper {
+        position: relative !important;
+        z-index: 1 !important;
+      }
+
+      #footer .footerimg h3,
+      */
+      #footer .footerimg a {
+        color: #F3E5CC !important;
+      }
+
+      /* dải SWEET MOMENTS TOGETHER */
+      #footer .ft-copyrights {
+        background: #F3E5CC !important;
+        color: #4A3029 !important;
+      }
+
+      #footer .ft-copyrights p {
+        color: #4A3029 !important;
+        margin: 0 !important;
+        padding: 12px 0 !important;
+      }
+    </style>
+
+    <style>
+      /* ===== LỖI 2: XÓA DẢI TRẮNG ===== */
+      html,
+      body {
+        background: #760D18 !important;
+      }
+
+      #PageContainer,
+      .main-content,
+      .home-collection,
+      .hc-products-wrapper,
+      #owl-home-collection-slider1,
+      .home-collection .wrapper,
+      .home-collection .inner {
+        background: transparent !important;
+        margin-bottom: 0 !important;
+        padding-bottom: 0 !important;
+      }
+
+      /* nếu trắng là của chính footer hoặc khoảng cách phía trên nó */
+      #footer {
+        background: #760D18 !important;
+        margin-top: 0 !important;
+        padding-top: 0 !important;
+        border-top: 0 !important;
+      }
+
+      /* ===== LỖI 1: ẢNH NỀN + LỚP PHỦ CHO FOOTER ===== */
+      #footer .footerimg {
+        position: relative !important;
+        background: url("images/fo.jpg") center / cover no-repeat !important;
+        padding-top: 40px !important;
+        padding-bottom: 40px !important;
+      }
+
+      #footer .footerimg::before {
+        content: "" !important;
+        position: absolute !important;
+        top: 0 !important;
+        right: 0 !important;
+        bottom: 0 !important;
+        left: 0 !important;
+        background: rgba(118, 13, 24, 0.55) !important;
+        z-index: 0 !important;
+        pointer-events: none !important;
+      }
+
+      #footer .footerimg .wrapper {
+        position: relative !important;
+        z-index: 1 !important;
+      }
+
+      #footer .footerimg h3,
+      #footer .footerimg a {
+        color: #4A3029 !important;
+      }
+
+      /* dải SWEET MOMENTS TOGETHER */
+      #footer .ft-copyrights {
+        background: #F3E5CC !important;
+        color: #4A3029 !important;
+      }
+
+      #footer .ft-copyrights p {
+        color: #4A3029 !important;
+        margin: 0 !important;
+        padding: 12px 0 !important;
+      }
+    </style>
 
     <script>
       window.file_url = "//file.hstatic.net/200000247827/file/";
@@ -492,15 +647,15 @@
               <div class="grid">
 
                 <div class="grid__item large--one-third medium--one-third small--one-whole">
-                  <a href="collections/phin-pairings.html" class="hp-item clearfix"> <img src="https://theme.hstatic.net/200000247827/1000692826/14/banner_img1.jpg?v=2112" alt="banner 1"/> </a>
+                  <a href="collections/celebration-cakes.html" class="hp-item clearfix"> <img src="images/tags/celebration_cakes.jpg" alt="banner 1"/> </a>
                 </div>
 
                 <div class="grid__item large--one-third medium--one-third small--one-whole">
-                  <a href="collections/celebration-cakes.html" class="hp-item clearfix"> <img src="https://theme.hstatic.net/200000247827/1000692826/14/banner_img2.jpg?v=2112" alt="banner 2"/> </a>
+                  <a href="collections/phin-pairings.html" class="hp-item clearfix"> <img src="images/tags/phin_pairings.jpg" alt="banner 2"/> </a>
                 </div>
 
                 <div class="grid__item large--one-third medium--one-third small--one-whole">
-                  <a href="collections/fresh-from-the-oven.html" class="hp-item clearfix"> <img src="https://theme.hstatic.net/200000247827/1000692826/14/banner_img3.jpg?v=2112" alt="banner 3"/> </a>
+                  <a href="collections/fresh-from-the-oven.html" class="hp-item clearfix"> <img src="images/tags/dessert_cups.jpg" alt="banner 3"/> </a>
                 </div>
 
               </div>
@@ -523,40 +678,29 @@
               <div class="hc-products-wrapper">
                 <div id="owl-home-collection-slider1" class="grid">
 
-                  <div class="large--one-half medium--one-half quick-view small--one-whole grid__item" data-handle=/products/berry-fruit-vanilla-11>
+                  <div class="large--one-half medium--one-half quick-view small--one-whole grid__item" data-handle=/products/phin-tiramisu>
 
                     <div class="item">
                       <div class="meta">
                         <div class="title">
                           <p>
-                            Berry Fruit Vanilla
+                            Phin Tiramisu
                           </p>
                         </div>
                         <div class="description">
                           <div class="desktop">
                             <p>
-                              BÁNH ENTREMET DÂU TÂY&nbsp;QUẢ MỌNG
+                              Where Vietnamese coffee meets Italian elegance. Delicate ladyfingers soaked in bold Vietnamese phin coffee, layered with silky mascarpone cream and finished with dark cocoa, two coffee beans and a touch of edible gold leaf.
                             </p>
-                            <p>
-                              Dòng bánh kem lạnh (Mousse), vị Vani&nbsp;nhân các loại Quả Mọng.
-                            </p>
-                            <p>
-                              Kích thước: size 14cm / size 18cm
-                            </p>
-                            <p>
-                              Vị chua thanh nhẹ của các loại Quả Mọng (dâu tây, mâm xôi,...) kết hợp...
                           </div>
                           <p class="mobile">
                           <p>
-                            BÁNH ENTREMET DÂU TÂY&nbsp;QUẢ MỌNG
-                          </p>
-                          <p>
-                            Dòng bánh kem lạnh (Mousse), vị...
+                            Where Vietnamese coffee meets Italian elegance.
                           </p>
                         </div>
                         <div class="price">
                           <p>
-                            665,000₫
+                            69,000₫
                           </p>
                         </div>
 
@@ -564,7 +708,7 @@
                       <div class="img">
                         <div class="figure__image">
                           <div class="product-image-wrapper">
-                            <img src="https://cdn.hstatic.net/products/200000247827/bsn_berry_fruit_vanilla__2_1__1__2d14bf785c8a4f07ac49acdadd46935e.png" alt="Berry Fruit Vanilla"/>
+                            <img src="images/celebrations_cake/19.png" alt="Phin Tiramisu"/>
                           </div>
                         </div>
                       </div>
@@ -572,39 +716,29 @@
 
                   </div>
 
-                  <div class="large--one-half medium--one-half quick-view small--one-whole grid__item" data-handle=/products/pink-guava>
+                  <div class="large--one-half medium--one-half quick-view small--one-whole grid__item" data-handle=/products/coffee-cookies>
 
                     <div class="item">
                       <div class="meta">
                         <div class="title">
                           <p>
-                            Pink Guava
+                            Coffee Cookies
                           </p>
                         </div>
                         <div class="description">
                           <div class="desktop">
                             <p>
-                              BÁNH ENTREMET ỔI HỒNG
+                              Buttery cookies infused with aromatic coffee notes and chocolate chips, delivering a rich roasted flavor with a satisfying sweetness. Best paired with: Espresso, its bold, intense flavor enhances the coffee aroma while balancing the buttery sweetness..
                             </p>
-                            <p>
-                              Dòng bánh kem lạnh (Mousse), vị Ổi hồng và&nbsp;Vải.
-                            </p>
-                            <p>
-                              Kích thước: size 14cm / size 18cm
-                            </p>
-                            Nốt hương thanh tao đầy mới lạ của Ổi hồng vùng miệt vườn nhiệt đới. Phần nhân Ổi...
                           </div>
                           <p class="mobile">
                           <p>
-                            BÁNH ENTREMET ỔI HỒNG
-                          </p>
-                          <p>
-                            Dòng bánh kem lạnh (Mousse), vị Ổi...
+                            Buttery cookies infused with aromatic coffee notes and chocolate chips, delivering a rich roasted flavor with a satisfying sweetness.
                           </p>
                         </div>
                         <div class="price">
                           <p>
-                            625,000₫
+                            30,000₫
                           </p>
                         </div>
 
@@ -612,7 +746,7 @@
                       <div class="img">
                         <div class="figure__image">
                           <div class="product-image-wrapper">
-                            <img src="https://cdn.hstatic.net/products/200000247827/bsn_pink_guava_1_b8429768a2a54c4e90cfd075438025d3.png" alt="Pink Guava"/>
+                            <img src="images/phin_pairings/1.png" alt="Coffee Cookies"/>
                           </div>
                         </div>
                       </div>
@@ -620,40 +754,29 @@
 
                   </div>
 
-                  <div class="large--one-half medium--one-half quick-view small--one-whole grid__item" data-handle=/products/burnt-caramel-signature>
+                  <div class="large--one-half medium--one-half quick-view small--one-whole grid__item" data-handle=/products/matcha-scone-cake>
 
                     <div class="item">
                       <div class="meta">
                         <div class="title">
                           <p>
-                            Burnt Caramel Signature
+                            Matcha Scone Cake
                           </p>
                         </div>
                         <div class="description">
                           <div class="desktop">
                             <p>
-                              BÁNH ENTREMET CARAMEL
+                              Delicate matcha aroma with buttery richness and gentle sweetness. Soft, crumbly, and perfect for a cozy tea break..
                             </p>
-                            <p>
-                              Dòng Bánh kem lạnh (Mousse), vị Caramel Valrhona và&nbsp;nhân Caramel mặn dẻo.&nbsp;
-                            </p>
-                            <p>
-                              Kích thước: size 14cm / size 18cm
-                            </p>
-                            <p>
-                              Lớp kem Caramel valrhora dulcey thơm ngậy kết hợp với hương vị Caramel đường khò từ...
                           </div>
                           <p class="mobile">
                           <p>
-                            BÁNH ENTREMET CARAMEL
-                          </p>
-                          <p>
-                            Dòng Bánh kem lạnh (Mousse), vị Caramel Valrhona...
+                            Delicate matcha aroma with buttery richness and gentle sweetness.
                           </p>
                         </div>
                         <div class="price">
                           <p>
-                            625,000₫
+                            60,000₫
                           </p>
                         </div>
 
@@ -661,7 +784,7 @@
                       <div class="img">
                         <div class="figure__image">
                           <div class="product-image-wrapper">
-                            <img src="https://cdn.hstatic.net/products/200000247827/bsn_burnt_caramel_signature_1_91c29e98b03b4d3cbcb80989abb1eb5e.png" alt="Burnt Caramel Signature"/>
+                            <img src="images/fresh_from_the_oven/1.jpg" alt="Matcha Scone Cake"/>
                           </div>
                         </div>
                       </div>
@@ -669,43 +792,29 @@
 
                   </div>
 
-                  <div class="large--one-half medium--one-half quick-view small--one-whole grid__item" data-handle=/products/tropical-coconut-8>
+                  <div class="large--one-half medium--one-half quick-view small--one-whole grid__item" data-handle=/products/berry-mousse-cup>
 
                     <div class="item">
                       <div class="meta">
                         <div class="title">
                           <p>
-                            Tropical Coconut
+                            Berry Mousse Cup
                           </p>
                         </div>
                         <div class="description">
                           <div class="desktop">
                             <p>
-                              BÁNH ENTREMET DỨA&nbsp;DỪA
+                              A smooth and airy strawberry mousse layered with sweet and tangy berry jelly and a crunchy biscuit base. Its refreshing fruity flavor and light texture make it a delightful treat without feeling too heavy.
                             </p>
-                            <p>
-                              Dòng bánh kem lạnh (Mousse), vị Dứa Dừa.
-                            </p>
-                            <p>
-                              Kích thước: size 14cm / size 18cm
-                            </p>
-                            <p>
-                              Vị bánh thiên về nhân Dứa nấu cùng Vani, thơm và bùi từ lớp kem Dừa. Lúc ăn sẽ cảm...
                           </div>
                           <p class="mobile">
                           <p>
-                            BÁNH ENTREMET DỨA&nbsp;DỪA
-                          </p>
-                          <p>
-                            Dòng bánh kem lạnh (Mousse), vị Dứa Dừa.
-                          </p>
-                          <p>
-                            Kích...
+                            A smooth and airy strawberry mousse layered with sweet and tangy berry jelly.
                           </p>
                         </div>
                         <div class="price">
                           <p>
-                            625,000₫
+                            49,000₫
                           </p>
                         </div>
 
@@ -713,7 +822,7 @@
                       <div class="img">
                         <div class="figure__image">
                           <div class="product-image-wrapper">
-                            <img src="https://cdn.hstatic.net/products/200000247827/bsn_tropical_coconut_1_91def2d7c5b04a9da2d5217183ed2b51.png" alt="Tropical Coconut"/>
+                            <img src="images/dessert_cups/01_berry_mousse_cup.png" alt="Berry Mousse Cup"/>
                           </div>
                         </div>
                       </div>
@@ -722,7 +831,7 @@
                   </div>
 
                 </div>
-                <div class="click-more">
+                <div class="buttonn click-more">
                   <a href="collections/all.html">See All</a>
                 </div>
               </div>
@@ -730,70 +839,6 @@
           </div>
         </div>
 
-        <!-- home-banners -->
-        <section id="home-banners">
-          <div class="wrapper">
-            <div class="inner">
-              <div class="grid">
-
-                <div class="grid__item large--six-twelfths medium--six-twelfths small--one-whole">
-                  <div class="hb-item">
-                    <a href="collections/all.html"> <img src="https://theme.hstatic.net/200000247827/1000692826/14/hb_img3.png?v=2112" alt="Home Banner 3"/> </a>
-                  </div>
-                </div>
-
-                <div class="grid__item large--six-twelfths medium--six-twelfths small--one-whole">
-                  <div class="hb-item">
-                    <a href="collections/all.html"> <img src="https://theme.hstatic.net/200000247827/1000692826/14/hb_img4.png?v=2112" alt="Home Banner 4"/> </a>
-                  </div>
-                </div>
-
-              </div>
-            </div>
-          </div>
-        </section>
-
-        <!-- home-introdure -->
-        <section id="home-introduce" class="text-center home-introduce1">
-          <div class="container">
-            <div class="inner">
-              <div class="ha-title text-center">
-                <div class="ha-small-title">
-
-                </div>
-                <h2>
-                  <a href="collections/all.html">BÁNH SINH NHẬT SIZE 14CM</a>
-                </h2>
-              </div>
-              <div class="row">
-                <div class="col-lg-8">
-                  <div class="intro-left">
-                    <a href="collections/all.html"><img class="img-fluid" src="https://theme.hstatic.net/200000247827/1000692826/14/img_intro-1.png?v=2112"></a>
-                  </div>
-                </div>
-                <div class="col-lg-4 d-flex d-lg-block">
-                  <div class="intro-right">
-                    <a href="collections/all.html"><img class="img-fluid" src="https://theme.hstatic.net/200000247827/1000692826/14/img_intro-2.png?v=2112"/></a>
-                  </div>
-                  <div class="intro-right" style="margin-top: 30px">
-                    <a href="collections/all.html"><img class="img-fluid" src="https://theme.hstatic.net/200000247827/1000692826/14/img_intro-3.png?v=2112"/></a>
-                  </div>
-                </div>
-              </div>
-              <div class="row mt-4">
-                <div class="col-md-4 mt-lg-0 mt-4">
-                  <a href="collections/all.html"><img class="img-fluid" src="https://theme.hstatic.net/200000247827/1000692826/14/img_intro-4.png?v=2112"/></a>
-                </div>
-                <div class="col-md-4 mt-lg-0 mt-4">
-                  <a href="collections/all.html"><img class="img-fluid" src="https://theme.hstatic.net/200000247827/1000692826/14/img_intro-5.png?v=2112"/></a>
-                </div>
-                <div class="col-md-4 mt-lg-0 mt-4">
-                  <a href="collections/all.html"><img class="img-fluid" src="https://theme.hstatic.net/200000247827/1000692826/14/img_intro-6.png?v=2112"/></a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
 
       </main>
     </div>
@@ -867,7 +912,6 @@
       }
     </script>
 
-    
     <div id="back-to-top">
       <i class="fa fa-angle-up" aria-hidden="true"></i>
     </div>
